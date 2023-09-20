@@ -1,4 +1,4 @@
-
+// Declare a constant variable in Golang?
 
 package main
 
